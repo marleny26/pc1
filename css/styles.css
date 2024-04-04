@@ -1,0 +1,24 @@
+/* Estilos para la lista de personas */
+#personas-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #personas-list li {
+    margin-bottom: 10px;
+  }
+  
+  /* Estilos para el botón de contratar */
+  #contratar-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  #contratar-btn:hover {
+    background-color: #45a049;
+  }
+  
